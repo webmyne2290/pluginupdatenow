@@ -3,7 +3,7 @@
  * Plugin Name: Github Custom Update Plugin
  * Plugin URI: http://www.webmyne.com/
  * Description: This plugin works as custom plugin create and get update now in admin area
- * Version: 2.0
+ * Version: 3.0
  * Author: Webmyne
  * Author URI: http://www.webmyne.com/
  */
@@ -43,7 +43,7 @@ function customdata_update()
 			$dbpwd = get_option('oscimp_dbpwd');
 			$prod_img_folder = get_option('oscimp_prod_img_folder');
 			$store_url = get_option('oscimp_store_url');
-			$updateverson="2.0";
+			$updateverson="3.0";
 		?>
 		 
 		<form name="oscimp_form" method="post" action="<?php echo str_replace( '%7E', '~', $_SERVER['REQUEST_URI']); ?>">
