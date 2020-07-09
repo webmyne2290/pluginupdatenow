@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Github Custom Update Plugin
+ * Plugin Name: Github Update Custom Plugin
  * Plugin URI: http://www.webmyne.com/
  * Description: This plugin works as custom plugin create and get update now in admin area
  * Version: 4.0
