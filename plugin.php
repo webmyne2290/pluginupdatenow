@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: WP GitHub Plugin Updater Test
-Plugin URI: https://github.com/jkudish/WordPress-GitHub-Plugin-Updater
+Plugin URI: http://www.webmyne.com/
 Description: Semi-automated test for the GitHub Plugin Updater
-Version: 0.2
-Author: Joachim Kudish
-Author URI: http://jkudish.com/
+Version: 0.1
+Author: Webmyne
+Author URI: http://www.webmyne.com/
 License: GPLv2
 */
 
